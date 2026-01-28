@@ -7,7 +7,7 @@ This assistant is capable of:
 - Sending humanlike emails directly from Slack
 - Automating team reminders for Namaz times
 - Providing interactive elements in Slack via block models (buttons)
-- Running **5 n8n workflows** with built-in **error handling** and **human-in-the-loop** oversight
+- Running **4 n8n workflows** with built-in **error handling** and **human-in-the-loop** oversight
 
 ---
 
@@ -40,5 +40,5 @@ This assistant is capable of:
 
 ### 6. **Workflows & Automation (n8n)**
    - The assistant is powered by **n8n workflows**, automating the processes for email sending, card creation, and Namaz time reminders.
-   - The system includes **5 separate n8n workflows**, each dedicated to specific tasks.
+   - The system includes **4 separate n8n workflows**, each dedicated to specific tasks.
    - **Human-in-the-loop monitoring** is embedded in the workflows, particularly for email verification.
